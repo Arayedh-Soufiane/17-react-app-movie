@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  outline: none;
+  background-color: gray;
+}
+.clAddStart {
+  display: flex;
+  justify-content: center;
+}

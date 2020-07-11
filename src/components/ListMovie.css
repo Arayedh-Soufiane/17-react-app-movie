@@ -1,0 +1,28 @@
+.cllistemovies {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+  margin: 5px;
+  /* justify-content: space-between; */
+  justify-content:space-around;
+
+}
+.clsimage {
+  max-height: 350px;
+  margin-top: 0px;
+  
+}
+.clscard {
+  margin: 5px;
+  
+  width: 352px;
+  height: 500px;
+  border-style: solid;
+  border-color: black;
+  background: rgb(122, 108, 85);
+}
+.clscard > p {
+  font-size: 20px;
+  font-family: cursive;
+  
+}

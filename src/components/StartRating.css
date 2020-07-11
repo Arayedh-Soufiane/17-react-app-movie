@@ -1,0 +1,18 @@
+.AAAp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+input[type="radio"] {
+  display: none;
+  margin: 0px;
+}
+.star {
+  display: flex;
+  cursor: pointer;
+  transition: color 200ms;
+  width: 50px;
+
+}
